@@ -10,7 +10,7 @@ CSS 기본학습
 ## Javascript
 Javascript기본학습
 
-## Resopnsive Web
+## Resoponsive Web
 응답형 웹 기본 학습
 
 ## Project
