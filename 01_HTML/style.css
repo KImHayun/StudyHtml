@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-     <head>
 
-        <title>첫 번째 웹 페이지 </title>
- <style>
      h1 {color: white;
          background-color: black;}
 
@@ -11,14 +6,3 @@ p {color:pink;
    font-weight:bold;
    font-style: italic;
 }
-
- </style>
-
-     </head>
-     <body>
-
-<h1>HelloWorld</h1>
-
-<p>내용</p>
-     </body>
-</html>
