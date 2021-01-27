@@ -4,18 +4,10 @@ HTML5, CSS3, JS 학습용 리포지토리
 -------------------------------
 ## HTML5
 HTML 기본 학습
+
 ### HTML 기본학습
-[HTML소스](http://github.com/KimHatun/StudyHtml/tree/main/01_HTML)
+[HTML소스]
 
-### HTML이란?
-개요를 학습
-1. Hyper Text Markup Language 정의
-2. HTML역사
-3. HTML5의 차이점
-
-- Hyper Text Markup Language 정의
-- HTML역사
-- HTML5의 차이점
 -------------------------------
 ## CSS3
 CSS 기본학습
