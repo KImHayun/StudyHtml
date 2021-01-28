@@ -32,27 +32,33 @@ Javascript기본학습
 <!DOCTYPE html>
 <html>
 <head>
-    <title>KIm Hayun</title>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    
 </head>
-<h1>Kim Hayun</h1>
-<link rel="stylesheet" href="style.css">
-<h3>
-경영과 정보시스템 기술의 융합을 통한 미래형 창조 인재를 양성하는 학과
-<h3>
-<h4>왜 경영정보학이 필요한가요?</h4>
+<body>
+    <form>
+<!--사용자가 입력하는 양식-->
+        <input type="text" name="userid" value="KimHayun"><br>
+        <input type="password" name="password" value="12345"><br>
+        <input type="file" name="attach_file" valu=""><br>
+        <input type="checkbox" name="chk_hobby_reading">
+        <input type="checkbox" name="chk_hobby_watch movie">
+        <input type="radio" name="rdo_male" value="남자"><br>
+        <input type="radio" name="rdo_male" value="여자"><br>
+         
+<!--보이지 않는 양식-->
+        <input type="hidden" name="hodden" value="hidden"><br>
+<!--버튼-->
+<input type="button" value="button"><br>
+<input type="reset" value="reset"><br>
+<input type="submit" value="submit"><br>
 
-<img src="mis1.jpg" width="30%">
+    </form>
 
-<br>
-<h5>지금은 인터넷과 모바일기기 등의 발달과 4차산업혁명의 도래로 인해 대부분의 활동이 정보시스템을 통해 일어나고 있습니다. <br>
-사람과 기업은 물론 사물조차도 컴퓨터 네트워크에 연결되고 있습니다. <br>
-이런 환경에서 기업운영방식도 이를 반영하지 않으면 살아남을 수 없거나 경쟁에서 도태되게 됩니다. <br>
-미래는 4차산업혁명의 시대가 됩니다. <br>
-데이터, 시스템과 소프트웨어를 다룰 수 있고 이를 경영에 접목할 수 있는 인재는 매우 필요합니다.</h5>
 
-<img src="mis2.jpg" width="30%">
-<h4>경영정보학은 어떠한 학과인가요?</h4>
-<h5>경영정보학과는 정보시스템 기술을 기업 경영에 적용시켜, <br>
-기업 각 부서간 필요한 경영데이터를 신속하게 주고 받고,<br>
- 축적하는 경영정보시스템을 교육하고 연구하는 학과입니다. 
-</h5>
+
+</body>
+</html>
