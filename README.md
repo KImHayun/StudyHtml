@@ -11,13 +11,13 @@ HTML 기본 학습
 -------------------------------
 
 ## CSS3
-CSS 기본학습
+### CSS 기본학습
 [CSS소스](https://github.com/KImHayun/StudyHtml/tree/main/02_CSS)
 
 -------------------------------
 
 ## Javascript
-Javascript기본학습
+### Javascript 기본학습
 [Javascript소스](https://github.com/KImHayun/StudyHtml/tree/main/03_Javascript)
 -------------------------------
 
