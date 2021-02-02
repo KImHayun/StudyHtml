@@ -20,7 +20,7 @@ HTML 기본 학습
 ## Javascript
 
 ### Javascript 기본학습
-[Javascript소스](https://github.com/KImHayun/StudyHtml/tree/main/03_Javascript)
+
 -------------------------------
 
 ## Responsive Web
