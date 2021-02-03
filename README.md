@@ -25,5 +25,5 @@ HTML 기본 학습
 
 ## Project
 전체 통합 프로젝트 <br>
-[결과](https://github.com/KImHayun/StudyHtml/blob/main/ref_images/result_01.jpg?raw=true)
+[결과](ref_images/result_01.jpg)
 --------------------------------
