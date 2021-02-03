@@ -25,5 +25,5 @@ HTML 기본 학습
 
 ## Project
 전체 통합 프로젝트
-[결과](/ref_images/resurt01.png)
+[결과](/ref_images/resu1t_01.png)
 --------------------------------
