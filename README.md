@@ -20,7 +20,7 @@ HTML 기본 학습
 ## Javascript
 
 ### Javascript 기본학습
-[Jss](https://github.com/KImHayun/StudyHtml/tree/main/03_Javascript)
+[JSS](https://github.com/KImHayun/StudyHtml/tree/main/03_Javascript)
 
 
 -------------------------------
