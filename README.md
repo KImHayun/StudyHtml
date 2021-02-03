@@ -23,12 +23,7 @@ HTML 기본 학습
 
 -------------------------------
 
-## Responsive Web
-응답형 웹 기본 학습
-[결과](https://github.com/KImHayun/StudyHtml/tree/main/ref_images)
-------------------------------
-
 ## Project
 전체 통합 프로젝트
-
+[결과](/ref_images/resurt_01.html)
 --------------------------------
