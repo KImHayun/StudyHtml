@@ -38,16 +38,27 @@
                event.stopPropagation();
             });
         });
-//그리드 내 이미지 클릭한 것 나오게 하는 함수 변경(큰 화면)
+// 이미지 클릭한 것 나오게 하는 함수 변경(큰 화면)
         function showLightBox(obj) {
             var img_src = obj.getElementsByTagName("img")[0].src;
             $("#random-image").attr({
                 src: function() {
-                    //var rnd_height = 500 + Math.floor(Math.random() * 100);
-                    return img_src; // "https://placekitten.com/600/" + rnd_height;
+                //var rnd_height = 500 + Math.floor(Math.random() * 100);
+                return img_src; 
+                // "https://placekitten.com/600/" + rnd_height;
                 }
             });
-            
+            $("#random-image2").attr({
+                src: function() {
+                //var rnd_height = 500 + Math.floor(Math.random() * 100);
+                return img_src; 
+                // "https://placekitten.com/600/" + rnd_height;
+                }
+            });
+
+
+
+
             $("#darken-background").show();
             $("#darken-background").css("top", $(window).scrollTop());
             $("body").css('overflow', 'hidden');
@@ -351,16 +362,16 @@
         <div id="lightbox">
             <div class="user-information">
                 <a class="user-information-image" href="#">
-                    <img id="ramdom-image2" img src="https://placekitten.com/70/70">
+ <!--작은 이미지--> <img id="random-image2" 
+                    img src="#" width="80" height="100">
                 </a>
                 <div class="user-information-text">
                     <h3>User</h3>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus inventore, et eum quisquam voluptatem illo quos, cum iure sunt non id culpa, dolores fugiat? Et odit necessitatibus quod mollitia labore.</p>
                 </div>
             </div>
-        
             <hr class="lightbox-splitter">
-            <img id="random-image" src="#" height="620">
+ <!-- 큰 이미지--> <img id="random-image" src="#" width="620" height="700">
         </div>
     </div>
     <footer id="main-footer"></footer>
